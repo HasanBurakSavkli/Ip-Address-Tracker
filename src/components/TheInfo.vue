@@ -21,8 +21,10 @@
 
 <script setup>
 defineProps({
-    ipInfo : Object
+    ipInfo : Object,
 })
+
+
 </script>
 
 <style></style>
