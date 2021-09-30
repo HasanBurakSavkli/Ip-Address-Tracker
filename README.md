@@ -1,6 +1,6 @@
 # Frontend Mentor - IP address tracker
 
-![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
+![Design preview for the IP address tracker coding challenge](C:\Users\Burak\Desktop\FM-IP Tracker\ip-tracker\src\assets\ip-address-tracker-master\design\desktop-preview.jpg)
 
 ## Welcome! 👋
 
